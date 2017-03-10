@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KYoga.iml" filepath="$PROJECT_DIR$/KYoga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitylistener/activitylistener.iml" filepath="$PROJECT_DIR$/activitylistener/activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyoga2/kyoga2.iml" filepath="$PROJECT_DIR$/kyoga2/kyoga2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0061layouts/p0061layouts.iml" filepath="$PROJECT_DIR$/p0061layouts/p0061layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101_listener/p0101_listener.iml" filepath="$PROJECT_DIR$/p0101_listener/p0101_listener.iml" />
+    </modules>
+  </component>
+</project>

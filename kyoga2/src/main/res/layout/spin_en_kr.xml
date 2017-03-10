@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textAlignment="center"
+        android:text="Комплекс основных упражнений для стимуляции спинальных энергий"
+        android:textSize="24sp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="Возраст человека в большей степени определяется гибкостью позвоночника. Поэтому оставаясь гибкими,  Вы - сохраните молодость. Данный комплекс упражнений воздействует на все отделы позвоночника. С его помощью разрабатываются все 26 позвонков. Тем самым улучшая прохождение энергии и питательных элементов по всему телу."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textAlignment="viewStart" />
+
+    <Button
+        android:text="СТАРТ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/start" />
+
+    <Button
+        android:text="НАСТРОЙКИ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/properties" />
+</LinearLayout>
